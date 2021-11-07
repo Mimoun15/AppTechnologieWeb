@@ -1,0 +1,23 @@
+body {
+    margin: 10;
+    padding: 10;
+    font-family: sans-serif;
+    background: green;
+    border-width: 2px;
+ border-color: blue;
+ border-radius: 5px;
+ border-style: solid 
+}
+
+header {
+    background-color: #405D9A;
+    height: 64px;
+    text-align: right;
+    color: white;
+}
+
+h1 {
+color:red;
+
+
+}
